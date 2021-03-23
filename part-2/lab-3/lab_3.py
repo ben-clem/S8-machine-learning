@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# **1 Lab tasks**</br>
+# **1 Lab tasks**
+
 # **1.1 K-means: Clustering some synthetic data**
-# 
 # 1. Download from the course site the 2D data stored in data kmeans.txt file.
 
 # In[2]:
@@ -169,11 +169,10 @@ for index, x in enumerate(x_test):
 plt.show()
 
 
-#  **2 Homework tasks</br> 
-#  2.1 K-means:Clustering some real data**
-# 
+# **2 Homework tasks**
+
+# **2.1 K-means:Clustering some real data**
 # 1. Using the given dataset, cluster the students in 3 clusters (weak, average and gifted clusters) using the K-means algorithm.
-# 
 
 # In[801]:
 
